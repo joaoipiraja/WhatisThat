@@ -1,6 +1,6 @@
 //
-//  IsSeaFoodApp.swift
-//  IsSeaFood
+//  WhatisThat?.swift
+//  WhatisThat?
 //
 //  Created by João Victor Ipirajá de Alencar on 18/01/21.
 //
